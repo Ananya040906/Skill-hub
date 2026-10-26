@@ -1,0 +1,4 @@
+strategy,gap_reduction_mean,gap_reduction_std,gap_reduction_pct,prereq_validity_pct
+Graph-aware priority (Skill Hub),71.3,25.2,67.6,100.0
+Weakest-skill-first,52.7,18.5,56.8,59.2
+Career-relevance-only,50.1,16.2,52.6,56.5

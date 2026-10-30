@@ -3,11 +3,12 @@
 An ML-based student career readiness prediction and adaptive skill-gap analysis platform.
 
 ## Project links
+- **Live demo (Streamlit):** https://your-app-name.streamlit.app
 - **GitHub repository:** https://github.com/Ananya040906/skill-hub
 - **Full report (PDF):** [report/Skill_Hub_Case_Study.pdf](report/Skill_Hub_Case_Study.pdf)
 - **Results and figures:** [results/](results/)
 - **Source code:** [src/](src/)
-- **Clone this project:** `git clone https://github.com/Ananya040906/skill-hub.git`
+-
 
 **Course:** Machine Learning for Data Science | VIT Vellore (SCOPE / MID)
 **Authors:** Vigasni R, Ananya H Narasimha, Shalini V K

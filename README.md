@@ -2,6 +2,13 @@
 
 An ML-based student career readiness prediction and adaptive skill-gap analysis platform.
 
+## Project links
+- **GitHub repository:** https://github.com/Ananya040906/skill-hub
+- **Full report (PDF):** [report/Skill_Hub_Case_Study.pdf](report/Skill_Hub_Case_Study.pdf)
+- **Results and figures:** [results/](results/)
+- **Source code:** [src/](src/)
+- **Clone this project:** `git clone https://github.com/Ananya040906/skill-hub.git`
+
 **Course:** Machine Learning for Data Science | VIT Vellore (SCOPE / MID)
 **Authors:** Vigasni R, Ananya H Narasimha, Shalini V K
 
@@ -34,6 +41,9 @@ python src/compare_recommenders.py
 
 Logistic Regression had the best 5-fold grouped CV score (F1 0.887 ± 0.015),
 but it did not clearly outperform the simple rule-based baseline on the test set.
+
+![Skill dependency graph](results/skill_graph.png)
+![Confusion matrix](results/confusion_matrix.png)
 
 ### Recommendation strategies (simulation, 300 students, 6 study sessions)
 | Strategy | Gap reduction (mean ± std) | Prerequisite validity |

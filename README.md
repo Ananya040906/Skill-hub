@@ -16,6 +16,7 @@ No real student data is used.
 
 ## How to run
 ```
+python -m streamlit run app.py
 pip install -r requirements.txt
 python src/generate_data.py
 python src/gap_priority.py
